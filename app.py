@@ -19,7 +19,7 @@ st.write("Upload OR draw a digit (0–9)")
 # =========================
 @st.cache_resource
 def load_model():
-    return tf.keras.models.load_model("digital_model.keras", compile=False)
+    return tf.keras.models.load_model("digit_model.keras", compile=False)
 
 model = load_model()
 
