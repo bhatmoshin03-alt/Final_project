@@ -1,2 +1,2 @@
-# Final_project
-This is my capstone projet at Nsti Srinagar
+# final_project
+this is my capstone project
